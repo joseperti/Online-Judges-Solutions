@@ -1,3 +1,4 @@
+<div class="align-justify">
 Currently version: <b>Accepted Message</b><br>
 <h2>Problem: UVA 11727</h2>
 <br>
@@ -40,3 +41,4 @@ Case 3: 1500<br>
 
 <br>
 <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2827">Link</a>
+</div>
