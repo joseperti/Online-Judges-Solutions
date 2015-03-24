@@ -3,6 +3,7 @@ Currently version: <b>Accepted Message</b><br>
 <br>
 <h3>Statement</h3><br>
 11727 Cost Cutting<br>
+<p>
 Company XYZ have been badly hit by recession and is taking
 a lot of cost cutting measures. Some of these measures include
 giving up office space, going open source, reducing incentives,
@@ -15,6 +16,7 @@ usually the general trend during crisis like this.
 You will be given the salaries of these 3 employees working in
 the accounts department. You have to find out the salary of the
 person who survives.
+</p>
 <br>
 Input
 <br>
@@ -27,14 +29,14 @@ Output
 For each case, output the case number followed by the salary of the person who survives.
 <br>
 <b>Sample Input</b>
-3
-1000 2000 3000
-3000 2500 1500
-1500 1200 1800
+3<br>
+1000 2000 3000<br>
+3000 2500 1500<br>
+1500 1200 1800<br>
 <b>Sample Output</b>
-Case 1: 2000
-Case 2: 2500
-Case 3: 1500
+Case 1: 2000<br>
+Case 2: 2500<br>
+Case 3: 1500<br>
 
 <br>
 <a href="http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2827">Link</a>
