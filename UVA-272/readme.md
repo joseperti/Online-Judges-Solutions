@@ -28,14 +28,14 @@ Input will consist of several lines of text containing an even number of double-
     the first " in each pair is replaced by two ` characters: `` and<br>
     the second " in each pair is replaced by two ' characters: ''. <br><br>
 
-<b>Sample Input</b><br>
+<strong>Sample Input</strong><br>
 
 "To be or not to be," quoth the Bard, "that<br>
 is the question".<br>
 The programming contestant replied: "I must disagree.<br>
 To `C' or not to `C', that is The Question!"<br><br>
 
-<b>Sample Output</b><br>
+<strong>Sample Output</strong><br>
 
 ``To be or not to be,'' quoth the Bard, ``that<br>
 is the question''.<br>
