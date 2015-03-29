@@ -1,4 +1,3 @@
-#Basic problems
+#Greedy, Merge, Union find, Bits
 <br>
-Accepted: 8<br>
-Runtime error: 2
+Accepted: 3<br>
